@@ -64,13 +64,13 @@
                 "generatorName": "",
                 "repositoryUrl": "",
                 "graphLocation": {
-                    "repositoryService": "Unknown",
-                    "repositoryBranch": "",
-                    "repositoryName": "",
+                    "repositoryService": "GitHub",
+                    "repositoryBranch": "main",
+                    "repositoryName": "M-Wicenec/EagleTest",
                     "repositoryPath": "",
-                    "repositoryFileName": "",
-                    "commitHash": "",
-                    "downloadUrl": ""
+                    "repositoryFileName": "branchbackgroundissuetest.graph",
+                    "commitHash": "b913322a32803b8507ca7387c4174f1a6b051f69",
+                    "downloadUrl": "https://raw.githubusercontent.com/M-Wicenec/EagleTest/b913322a32803b8507ca7387c4174f1a6b051f69/branchbackgroundissuetest.graph"
                 },
                 "signature": "",
                 "lastModifiedName": "",

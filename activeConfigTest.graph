@@ -64,11 +64,11 @@
                 "generatorName": "",
                 "repositoryUrl": "",
                 "graphLocation": {
-                    "repositoryService": "Unknown",
-                    "repositoryBranch": "",
-                    "repositoryName": "",
+                    "repositoryService": "GitHub",
+                    "repositoryBranch": "main",
+                    "repositoryName": "M-Wicenec/EagleTest",
                     "repositoryPath": "",
-                    "repositoryFileName": "",
+                    "repositoryFileName": "activeConfigTest.graph",
                     "commitHash": "878ae13d4c08180791d1b227b8e88649ae35822d",
                     "downloadUrl": "https://raw.githubusercontent.com/M-Wicenec/EagleTest/878ae13d4c08180791d1b227b8e88649ae35822d/activeConfigTest.graph"
                 },
@@ -128,11 +128,11 @@
                 "generatorName": "",
                 "repositoryUrl": "",
                 "graphLocation": {
-                    "repositoryService": "Unknown",
-                    "repositoryBranch": "",
-                    "repositoryName": "",
+                    "repositoryService": "GitHub",
+                    "repositoryBranch": "main",
+                    "repositoryName": "M-Wicenec/EagleTest",
                     "repositoryPath": "",
-                    "repositoryFileName": "",
+                    "repositoryFileName": "activeConfigTest.graph",
                     "commitHash": "878ae13d4c08180791d1b227b8e88649ae35822d",
                     "downloadUrl": "https://raw.githubusercontent.com/M-Wicenec/EagleTest/878ae13d4c08180791d1b227b8e88649ae35822d/activeConfigTest.graph"
                 },
@@ -176,11 +176,11 @@
                 "generatorName": "",
                 "repositoryUrl": "",
                 "graphLocation": {
-                    "repositoryService": "Unknown",
-                    "repositoryBranch": "",
-                    "repositoryName": "",
+                    "repositoryService": "GitHub",
+                    "repositoryBranch": "main",
+                    "repositoryName": "M-Wicenec/EagleTest",
                     "repositoryPath": "",
-                    "repositoryFileName": "",
+                    "repositoryFileName": "activeConfigTest.graph",
                     "commitHash": "878ae13d4c08180791d1b227b8e88649ae35822d",
                     "downloadUrl": "https://raw.githubusercontent.com/M-Wicenec/EagleTest/878ae13d4c08180791d1b227b8e88649ae35822d/activeConfigTest.graph"
                 },
@@ -456,8 +456,8 @@
                     "parameterType": "Application",
                     "usage": "InputPort",
                     "edgeIds": [
-                        "2a4e81e7-e927-4e67-bcea-c9456e97da2a",
-                        "2eb42317-e5bf-4ecb-a94d-f89c70ea4e7e"
+                        "cf9be97a-950e-4658-a1de-99b184561a44",
+                        "ae896eac-f3a8-43ab-8035-d35c24bca09d"
                     ]
                 },
                 "5848c7d0-8fb6-4167-bae9-1e997fa8028b": {
@@ -495,7 +495,7 @@
                     "parameterType": "Application",
                     "usage": "OutputPort",
                     "edgeIds": [
-                        "b4a30349-c73f-46fd-ac78-88d0f98cc3e4"
+                        "b189a863-3cdb-4861-ab7b-b93497ade746"
                     ]
                 },
                 "4eaccfa4-4c16-4b0a-82f9-7a3e3eb3bb86": {
@@ -529,7 +529,7 @@
                     "parameterType": "Application",
                     "usage": "OutputPort",
                     "edgeIds": [
-                        "d8e02a33-1569-4484-87f7-0c12ded147d7"
+                        "79e8674c-521a-40f4-890f-d8125256cd4e"
                     ]
                 }
             },
@@ -678,8 +678,8 @@
                     "parameterType": "Application",
                     "usage": "InputOutput",
                     "edgeIds": [
-                        "2a4e81e7-e927-4e67-bcea-c9456e97da2a",
-                        "302d65bd-5acf-42cf-8591-04197cc7c82d"
+                        "cf9be97a-950e-4658-a1de-99b184561a44",
+                        "038a2da3-7dfb-4530-9c4c-0681ed765e19"
                     ]
                 }
             },
@@ -874,7 +874,7 @@
                     "parameterType": "Application",
                     "usage": "OutputPort",
                     "edgeIds": [
-                        "2eb42317-e5bf-4ecb-a94d-f89c70ea4e7e"
+                        "ae896eac-f3a8-43ab-8035-d35c24bca09d"
                     ]
                 },
                 "539c1d45-3e36-4e82-9c1b-135ebaba5ade": {
@@ -1007,8 +1007,8 @@
                     "parameterType": "Application",
                     "usage": "InputOutput",
                     "edgeIds": [
-                        "b4a30349-c73f-46fd-ac78-88d0f98cc3e4",
-                        "5f08836b-e7a1-481a-b76c-59ed9af72ffc"
+                        "b189a863-3cdb-4861-ab7b-b93497ade746",
+                        "e7517f35-c878-4140-816f-2b3fcb097622"
                     ]
                 },
                 "bdd292b9-adf9-47f1-9270-eaf1478ee63e": {
@@ -1095,13 +1095,13 @@
                     "edgeIds": []
                 }
             },
-            "inputApplicationId": "ce846510-25b2-4787-b5db-9baccea683cc",
-            "outputApplicationId": "e6cb5f87-1863-408e-a21b-27beb94e1292"
+            "inputApplicationId": "c028a35e-0604-48d7-88f9-5bcde2e36bd4",
+            "outputApplicationId": "37c6b9c9-673d-4afe-86b9-357a59b9757e"
         },
-        "ce846510-25b2-4787-b5db-9baccea683cc": {
+        "c028a35e-0604-48d7-88f9-5bcde2e36bd4": {
             "category": "PythonApp",
             "categoryType": "Application",
-            "id": "ce846510-25b2-4787-b5db-9baccea683cc",
+            "id": "c028a35e-0604-48d7-88f9-5bcde2e36bd4",
             "name": "GenericNpyScatterApp",
             "description": "An APP that splits about any axis on any npy format data drop into as many part./run s as the app has outputs, provided that the initially converted numpy array has enough elements. The return will be a numpy array of arrays, where the first axis is of length len(outputs). The modulo remainder of the length of the original array and the number of outputs will be distributed across the first len(outputs)-1 elements of the resulting array.",
             "x": 0,
@@ -1270,7 +1270,7 @@
                     "parameterType": "Application",
                     "usage": "InputPort",
                     "edgeIds": [
-                        "5f08836b-e7a1-481a-b76c-59ed9af72ffc"
+                        "e7517f35-c878-4140-816f-2b3fcb097622"
                     ]
                 },
                 "4e1f1074-9554-4c16-a714-9f6c31a3f155": {
@@ -1288,17 +1288,17 @@
                     "parameterType": "Application",
                     "usage": "OutputPort",
                     "edgeIds": [
-                        "47ef405f-49eb-4ee4-8bf7-4c8d10f82bef"
+                        "1b53b573-b4dd-4f3e-b619-fea20ca04d80"
                     ]
                 }
             },
             "inputApplicationId": null,
             "outputApplicationId": null
         },
-        "e6cb5f87-1863-408e-a21b-27beb94e1292": {
+        "37c6b9c9-673d-4afe-86b9-357a59b9757e": {
             "category": "PythonApp",
             "categoryType": "Application",
-            "id": "e6cb5f87-1863-408e-a21b-27beb94e1292",
+            "id": "37c6b9c9-673d-4afe-86b9-357a59b9757e",
             "name": "GenericNpyGatherApp",
             "description": "A BarrierAppDrop that combines one or more inputs using cumulative operations.",
             "x": 0,
@@ -1492,7 +1492,7 @@
                     "parameterType": "Application",
                     "usage": "InputPort",
                     "edgeIds": [
-                        "2fe5f6ac-075d-4ab3-a431-bf8d2063c533"
+                        "be6fdeae-6f38-49a2-9482-9e15407c44d0"
                     ]
                 },
                 "ca4e391b-bd41-4750-9f2b-50c87d9f63a3": {
@@ -1510,7 +1510,7 @@
                     "parameterType": "Application",
                     "usage": "OutputPort",
                     "edgeIds": [
-                        "553a2be0-9858-431e-92ba-d1d2f302d99c"
+                        "08028ed5-08ab-455d-9180-26d009cf7184"
                     ]
                 }
             },
@@ -1627,7 +1627,7 @@
                     "parameterType": "Application",
                     "usage": "InputOutput",
                     "edgeIds": [
-                        "553a2be0-9858-431e-92ba-d1d2f302d99c"
+                        "08028ed5-08ab-455d-9180-26d009cf7184"
                     ]
                 }
             },
@@ -1744,7 +1744,7 @@
                     "parameterType": "Application",
                     "usage": "InputPort",
                     "edgeIds": [
-                        "47ef405f-49eb-4ee4-8bf7-4c8d10f82bef"
+                        "1b53b573-b4dd-4f3e-b619-fea20ca04d80"
                     ]
                 },
                 "78526ebb-86dc-44a8-b59a-95471c2b890d": {
@@ -1762,7 +1762,7 @@
                     "parameterType": "Component",
                     "usage": "OutputPort",
                     "edgeIds": [
-                        "ad8123b3-4613-4a48-af34-446c960da5c1"
+                        "35b16499-81ad-475a-9af5-de2f7f8e5a37"
                     ]
                 }
             },
@@ -1863,7 +1863,7 @@
                     "parameterType": "Component",
                     "usage": "InputPort",
                     "edgeIds": [
-                        "ad8123b3-4613-4a48-af34-446c960da5c1"
+                        "35b16499-81ad-475a-9af5-de2f7f8e5a37"
                     ]
                 },
                 "37db954b-487b-41d0-a057-c51456d5a461": {
@@ -1881,7 +1881,7 @@
                     "parameterType": "Component",
                     "usage": "OutputPort",
                     "edgeIds": [
-                        "bfd7235e-65ba-4c37-a6f0-081d3e2fff16"
+                        "a78b2bf6-9525-45ec-b35b-353963e4552a"
                     ]
                 }
             },
@@ -1998,7 +1998,7 @@
                     "parameterType": "Application",
                     "usage": "InputPort",
                     "edgeIds": [
-                        "bfd7235e-65ba-4c37-a6f0-081d3e2fff16"
+                        "a78b2bf6-9525-45ec-b35b-353963e4552a"
                     ]
                 },
                 "80be03b2-a5b0-4874-8cfd-917fb0736d48": {
@@ -2016,7 +2016,7 @@
                     "parameterType": "Component",
                     "usage": "OutputPort",
                     "edgeIds": [
-                        "2fe5f6ac-075d-4ab3-a431-bf8d2063c533"
+                        "be6fdeae-6f38-49a2-9482-9e15407c44d0"
                     ]
                 }
             },
@@ -2165,7 +2165,7 @@
                     "parameterType": "Application",
                     "usage": "InputOutput",
                     "edgeIds": [
-                        "d8e02a33-1569-4484-87f7-0c12ded147d7"
+                        "79e8674c-521a-40f4-890f-d8125256cd4e"
                     ]
                 },
                 "6b652eee-6ba6-461f-90ef-494785e28902": {
@@ -2298,7 +2298,7 @@
                     "parameterType": "Component",
                     "usage": "OutputPort",
                     "edgeIds": [
-                        "302d65bd-5acf-42cf-8591-04197cc7c82d"
+                        "038a2da3-7dfb-4530-9c4c-0681ed765e19"
                     ]
                 }
             },
@@ -2307,8 +2307,8 @@
         }
     },
     "edges": {
-        "2a4e81e7-e927-4e67-bcea-c9456e97da2a": {
-            "id": "2a4e81e7-e927-4e67-bcea-c9456e97da2a",
+        "cf9be97a-950e-4658-a1de-99b184561a44": {
+            "id": "cf9be97a-950e-4658-a1de-99b184561a44",
             "srcNodeId": "430dfe32-7452-430b-9941-bafb079f9aef",
             "srcPortId": "fea12ba2-4dc5-40e6-8a05-b46f1a6040aa",
             "destNodeId": "9b9da903-1ef8-4f17-bd24-338fc29be4ee",
@@ -2316,8 +2316,8 @@
             "loopAware": false,
             "closesLoop": false
         },
-        "2eb42317-e5bf-4ecb-a94d-f89c70ea4e7e": {
-            "id": "2eb42317-e5bf-4ecb-a94d-f89c70ea4e7e",
+        "ae896eac-f3a8-43ab-8035-d35c24bca09d": {
+            "id": "ae896eac-f3a8-43ab-8035-d35c24bca09d",
             "srcNodeId": "1e492417-c061-4226-a7a9-a07791def3b7",
             "srcPortId": "18873665-6421-49e9-a875-8937719ee398",
             "destNodeId": "9b9da903-1ef8-4f17-bd24-338fc29be4ee",
@@ -2325,8 +2325,8 @@
             "loopAware": false,
             "closesLoop": false
         },
-        "b4a30349-c73f-46fd-ac78-88d0f98cc3e4": {
-            "id": "b4a30349-c73f-46fd-ac78-88d0f98cc3e4",
+        "b189a863-3cdb-4861-ab7b-b93497ade746": {
+            "id": "b189a863-3cdb-4861-ab7b-b93497ade746",
             "srcNodeId": "9b9da903-1ef8-4f17-bd24-338fc29be4ee",
             "srcPortId": "794d3052-4fe4-48c0-9375-77bb92993b6d",
             "destNodeId": "f534817c-721a-4a4a-bd0f-5abf42b7f0e1",
@@ -2334,35 +2334,35 @@
             "loopAware": false,
             "closesLoop": false
         },
-        "5f08836b-e7a1-481a-b76c-59ed9af72ffc": {
-            "id": "5f08836b-e7a1-481a-b76c-59ed9af72ffc",
+        "e7517f35-c878-4140-816f-2b3fcb097622": {
+            "id": "e7517f35-c878-4140-816f-2b3fcb097622",
             "srcNodeId": "f534817c-721a-4a4a-bd0f-5abf42b7f0e1",
             "srcPortId": "4bbefc3f-b553-48ab-9f3d-13f4341ac121",
-            "destNodeId": "ce846510-25b2-4787-b5db-9baccea683cc",
+            "destNodeId": "c028a35e-0604-48d7-88f9-5bcde2e36bd4",
             "destPortId": "4f9771d3-934d-4440-ae02-ae0bae546f84",
             "loopAware": false,
             "closesLoop": false
         },
-        "553a2be0-9858-431e-92ba-d1d2f302d99c": {
-            "id": "553a2be0-9858-431e-92ba-d1d2f302d99c",
-            "srcNodeId": "e6cb5f87-1863-408e-a21b-27beb94e1292",
+        "08028ed5-08ab-455d-9180-26d009cf7184": {
+            "id": "08028ed5-08ab-455d-9180-26d009cf7184",
+            "srcNodeId": "37c6b9c9-673d-4afe-86b9-357a59b9757e",
             "srcPortId": "ca4e391b-bd41-4750-9f2b-50c87d9f63a3",
             "destNodeId": "713e1f83-f753-483f-8a47-489970519955",
             "destPortId": "cc1eb26e-c57f-47d2-9987-2ad83970e83c",
             "loopAware": false,
             "closesLoop": false
         },
-        "47ef405f-49eb-4ee4-8bf7-4c8d10f82bef": {
-            "id": "47ef405f-49eb-4ee4-8bf7-4c8d10f82bef",
-            "srcNodeId": "ce846510-25b2-4787-b5db-9baccea683cc",
+        "1b53b573-b4dd-4f3e-b619-fea20ca04d80": {
+            "id": "1b53b573-b4dd-4f3e-b619-fea20ca04d80",
+            "srcNodeId": "c028a35e-0604-48d7-88f9-5bcde2e36bd4",
             "srcPortId": "4e1f1074-9554-4c16-a714-9f6c31a3f155",
             "destNodeId": "ee8f6ea8-d0ec-40f8-8d5b-914b428e6c52",
             "destPortId": "193e8e90-9141-4249-a5d9-c2dedd730993",
             "loopAware": false,
             "closesLoop": false
         },
-        "ad8123b3-4613-4a48-af34-446c960da5c1": {
-            "id": "ad8123b3-4613-4a48-af34-446c960da5c1",
+        "35b16499-81ad-475a-9af5-de2f7f8e5a37": {
+            "id": "35b16499-81ad-475a-9af5-de2f7f8e5a37",
             "srcNodeId": "ee8f6ea8-d0ec-40f8-8d5b-914b428e6c52",
             "srcPortId": "78526ebb-86dc-44a8-b59a-95471c2b890d",
             "destNodeId": "763f8c75-8838-49c4-a5c9-9c3785c1e4cd",
@@ -2370,8 +2370,8 @@
             "loopAware": false,
             "closesLoop": false
         },
-        "bfd7235e-65ba-4c37-a6f0-081d3e2fff16": {
-            "id": "bfd7235e-65ba-4c37-a6f0-081d3e2fff16",
+        "a78b2bf6-9525-45ec-b35b-353963e4552a": {
+            "id": "a78b2bf6-9525-45ec-b35b-353963e4552a",
             "srcNodeId": "763f8c75-8838-49c4-a5c9-9c3785c1e4cd",
             "srcPortId": "37db954b-487b-41d0-a057-c51456d5a461",
             "destNodeId": "35d69a9e-9e6b-498b-81fa-ae091a4963de",
@@ -2379,17 +2379,17 @@
             "loopAware": false,
             "closesLoop": false
         },
-        "2fe5f6ac-075d-4ab3-a431-bf8d2063c533": {
-            "id": "2fe5f6ac-075d-4ab3-a431-bf8d2063c533",
+        "be6fdeae-6f38-49a2-9482-9e15407c44d0": {
+            "id": "be6fdeae-6f38-49a2-9482-9e15407c44d0",
             "srcNodeId": "35d69a9e-9e6b-498b-81fa-ae091a4963de",
             "srcPortId": "80be03b2-a5b0-4874-8cfd-917fb0736d48",
-            "destNodeId": "e6cb5f87-1863-408e-a21b-27beb94e1292",
+            "destNodeId": "37c6b9c9-673d-4afe-86b9-357a59b9757e",
             "destPortId": "874499eb-6774-4f6a-b0b0-eecce0a1fcd4",
             "loopAware": false,
             "closesLoop": false
         },
-        "d8e02a33-1569-4484-87f7-0c12ded147d7": {
-            "id": "d8e02a33-1569-4484-87f7-0c12ded147d7",
+        "79e8674c-521a-40f4-890f-d8125256cd4e": {
+            "id": "79e8674c-521a-40f4-890f-d8125256cd4e",
             "srcNodeId": "9b9da903-1ef8-4f17-bd24-338fc29be4ee",
             "srcPortId": "213b8234-e0b4-4742-a65b-b1ba06e72b25",
             "destNodeId": "4099348a-5535-4bb8-bce9-9cc61269c9b7",
@@ -2397,8 +2397,8 @@
             "loopAware": false,
             "closesLoop": false
         },
-        "302d65bd-5acf-42cf-8591-04197cc7c82d": {
-            "id": "302d65bd-5acf-42cf-8591-04197cc7c82d",
+        "038a2da3-7dfb-4530-9c4c-0681ed765e19": {
+            "id": "038a2da3-7dfb-4530-9c4c-0681ed765e19",
             "srcNodeId": "50822253-22aa-469b-bf5e-ba8bb638c205",
             "srcPortId": "d4e80bb1-d83b-4804-8fa6-1671b1aa2ca6",
             "destNodeId": "430dfe32-7452-430b-9941-bafb079f9aef",
