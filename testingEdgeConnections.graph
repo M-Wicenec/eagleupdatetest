@@ -43,10 +43,10 @@
     "activeGraphConfigId": null,
     "graphConfigurations": {},
     "nodes": {
-        "124be030-5fc7-46e7-add5-7590cd7b3286": {
+        "ca50b7d1-f51b-4126-8999-9b011a41904c": {
             "category": "PythonApp",
             "categoryType": "Application",
-            "id": "124be030-5fc7-46e7-add5-7590cd7b3286",
+            "id": "ca50b7d1-f51b-4126-8999-9b011a41904c",
             "name": "CopyApp",
             "description": "A simple APP that copies its inputs into its outputs. All inputs are copied into all outputs in the order they were declared in the graph. If an input is a container (e.g. a directory) it copies the content recursively.",
             "x": 910,
@@ -236,10 +236,10 @@
             "inputApplicationId": null,
             "outputApplicationId": null
         },
-        "37c9b1c3-1803-4ba4-866c-b2cd6f91b3db": {
+        "b9754658-7f5a-4f91-bba2-03389acfeff4": {
             "category": "File",
             "categoryType": "Data",
-            "id": "37c9b1c3-1803-4ba4-866c-b2cd6f91b3db",
+            "id": "b9754658-7f5a-4f91-bba2-03389acfeff4",
             "name": "File1",
             "description": "A standard file on a filesystem mounted to the deployment machine",
             "x": 762,
@@ -415,10 +415,10 @@
             "inputApplicationId": null,
             "outputApplicationId": null
         },
-        "749128e3-dcdb-4016-b256-8e75412b861b": {
+        "6185da7f-d602-41d4-acfc-11983571a660": {
             "category": "File",
             "categoryType": "Data",
-            "id": "749128e3-dcdb-4016-b256-8e75412b861b",
+            "id": "6185da7f-d602-41d4-acfc-11983571a660",
             "name": "File2",
             "description": "A standard file on a filesystem mounted to the deployment machine",
             "x": 1032,
