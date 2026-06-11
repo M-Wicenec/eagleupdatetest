@@ -43,10 +43,10 @@
     "activeGraphConfigId": null,
     "graphConfigurations": {},
     "nodes": {
-        "20dac46d-2b73-40a3-bb72-e03de8c24c00": {
+        "f227c22d-01e2-4423-b804-b533f1fae5a0": {
             "category": "PythonApp",
             "categoryType": "Application",
-            "id": "20dac46d-2b73-40a3-bb72-e03de8c24c00",
+            "id": "f227c22d-01e2-4423-b804-b533f1fae5a0",
             "name": "Predict",
             "description": "Derive raw model visibilities from sky-model components directly.",
             "x": 1284.4580987464142,
@@ -89,7 +89,7 @@
                     "parameterType": "Application",
                     "usage": "InputPort",
                     "edgeIds": [
-                        "8758fc7d-8c75-4995-b8f5-315a1736888d"
+                        "e626d10e-adae-4232-94f5-760abd023253"
                     ]
                 },
                 "9ee042bf-70ca-495d-b7d4-f048fda9c8d3": {
@@ -160,10 +160,10 @@
             "inputApplicationId": null,
             "outputApplicationId": null
         },
-        "66eca07e-729f-4e65-8295-0658c43482d7": {
+        "35e2e45f-8e11-485e-a827-a695d006080e": {
             "category": "Loop",
             "categoryType": "Construct",
-            "id": "66eca07e-729f-4e65-8295-0658c43482d7",
+            "id": "35e2e45f-8e11-485e-a827-a695d006080e",
             "name": "Major Cycle",
             "description": "The Major Cycle of the imaging workflow. For the SKA we are planning to run only one or very few iterations.",
             "x": 1691.249260016125,
@@ -211,10 +211,10 @@
             "inputApplicationId": null,
             "outputApplicationId": null
         },
-        "5d550f4c-b18c-4f9a-ab20-c32557e376d3": {
+        "22407d13-6ec1-4ae1-88e2-d660e974723a": {
             "category": "Memory",
             "categoryType": "Data",
-            "id": "5d550f4c-b18c-4f9a-ab20-c32557e376d3",
+            "id": "22407d13-6ec1-4ae1-88e2-d660e974723a",
             "name": "Comp list",
             "description": "",
             "x": 1285.1755211481209,
@@ -289,7 +289,7 @@
                     "parameterType": "Application",
                     "usage": "InputPort",
                     "edgeIds": [
-                        "a7b51297-8a0e-4290-aa61-e2fd7b6e6a68"
+                        "6d417f4b-afc7-4256-912e-51b5064e3a2d"
                     ]
                 },
                 "2c22c30b-f183-45ad-ba8d-b122997bf170": {
@@ -307,7 +307,7 @@
                     "parameterType": "Application",
                     "usage": "OutputPort",
                     "edgeIds": [
-                        "8758fc7d-8c75-4995-b8f5-315a1736888d"
+                        "e626d10e-adae-4232-94f5-760abd023253"
                     ]
                 },
                 "a3b655ab-76cf-43a7-812a-6c773ce1df84": {
@@ -330,10 +330,10 @@
             "inputApplicationId": null,
             "outputApplicationId": null
         },
-        "cb41e32c-95d3-4d53-9021-8d0d0ba4c5b3": {
+        "be94aa1d-ebe0-4b2b-9dd2-5758c6ad27cc": {
             "category": "PythonApp",
             "categoryType": "Application",
-            "id": "cb41e32c-95d3-4d53-9021-8d0d0ba4c5b3",
+            "id": "be94aa1d-ebe0-4b2b-9dd2-5758c6ad27cc",
             "name": "Extract Components",
             "description": "Model the identified sources to derive source components for calibrator sources.",
             "x": 1281.9795122387766,
@@ -456,7 +456,7 @@
                     "parameterType": "Application",
                     "usage": "OutputPort",
                     "edgeIds": [
-                        "a7b51297-8a0e-4290-aa61-e2fd7b6e6a68"
+                        "6d417f4b-afc7-4256-912e-51b5064e3a2d"
                     ]
                 },
                 "b971e264-b982-43eb-bb59-bb5454cd9011": {
@@ -474,17 +474,17 @@
                     "parameterType": "Application",
                     "usage": "OutputPort",
                     "edgeIds": [
-                        "eaa8de1b-f655-4dc5-9448-db0a218c9458"
+                        "3fd91ca5-a059-484e-978f-1ed9d36e1e79"
                     ]
                 }
             },
             "inputApplicationId": null,
             "outputApplicationId": null
         },
-        "c7390e0c-c70a-4970-9b58-82d1e1ffdfe7": {
+        "bffb9dcf-c9ea-42d9-88e7-e2176963ec69": {
             "category": "Service",
             "categoryType": "Service",
-            "id": "c7390e0c-c70a-4970-9b58-82d1e1ffdfe7",
+            "id": "bffb9dcf-c9ea-42d9-88e7-e2176963ec69",
             "name": "Cal. Catalog",
             "description": "The Calibrator Catalog Service. This is a service allowing queries and returns suitable calibration sources.",
             "x": 1015.6791580488623,
@@ -527,7 +527,7 @@
                     "parameterType": "Application",
                     "usage": "InputPort",
                     "edgeIds": [
-                        "eaa8de1b-f655-4dc5-9448-db0a218c9458"
+                        "3fd91ca5-a059-484e-978f-1ed9d36e1e79"
                     ]
                 }
             },
@@ -536,29 +536,29 @@
         }
     },
     "edges": {
-        "8758fc7d-8c75-4995-b8f5-315a1736888d": {
-            "id": "8758fc7d-8c75-4995-b8f5-315a1736888d",
-            "srcNodeId": "5d550f4c-b18c-4f9a-ab20-c32557e376d3",
+        "e626d10e-adae-4232-94f5-760abd023253": {
+            "id": "e626d10e-adae-4232-94f5-760abd023253",
+            "srcNodeId": "22407d13-6ec1-4ae1-88e2-d660e974723a",
             "srcPortId": "2c22c30b-f183-45ad-ba8d-b122997bf170",
-            "destNodeId": "20dac46d-2b73-40a3-bb72-e03de8c24c00",
+            "destNodeId": "f227c22d-01e2-4423-b804-b533f1fae5a0",
             "destPortId": "9d6af068-5569-429d-9d6b-e37b3210f953",
             "loopAware": false,
             "closesLoop": false
         },
-        "a7b51297-8a0e-4290-aa61-e2fd7b6e6a68": {
-            "id": "a7b51297-8a0e-4290-aa61-e2fd7b6e6a68",
-            "srcNodeId": "cb41e32c-95d3-4d53-9021-8d0d0ba4c5b3",
+        "6d417f4b-afc7-4256-912e-51b5064e3a2d": {
+            "id": "6d417f4b-afc7-4256-912e-51b5064e3a2d",
+            "srcNodeId": "be94aa1d-ebe0-4b2b-9dd2-5758c6ad27cc",
             "srcPortId": "f442242c-e75a-48af-99a9-c2a9479077bd",
-            "destNodeId": "5d550f4c-b18c-4f9a-ab20-c32557e376d3",
+            "destNodeId": "22407d13-6ec1-4ae1-88e2-d660e974723a",
             "destPortId": "77a27938-2c8d-49ff-a501-aadc1030770f",
             "loopAware": false,
             "closesLoop": false
         },
-        "eaa8de1b-f655-4dc5-9448-db0a218c9458": {
-            "id": "eaa8de1b-f655-4dc5-9448-db0a218c9458",
-            "srcNodeId": "cb41e32c-95d3-4d53-9021-8d0d0ba4c5b3",
+        "3fd91ca5-a059-484e-978f-1ed9d36e1e79": {
+            "id": "3fd91ca5-a059-484e-978f-1ed9d36e1e79",
+            "srcNodeId": "be94aa1d-ebe0-4b2b-9dd2-5758c6ad27cc",
             "srcPortId": "b971e264-b982-43eb-bb59-bb5454cd9011",
-            "destNodeId": "c7390e0c-c70a-4970-9b58-82d1e1ffdfe7",
+            "destNodeId": "bffb9dcf-c9ea-42d9-88e7-e2176963ec69",
             "destPortId": "ce82dde6-e634-4639-95c7-25820056c325",
             "loopAware": false,
             "closesLoop": false
