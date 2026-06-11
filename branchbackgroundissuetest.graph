@@ -329,6 +329,38 @@
                     "parameterType": "Component",
                     "usage": "NoPort",
                     "edgeIds": []
+                },
+                "961fffdf-bd5f-4830-92a8-a1003cfea07d": {
+                    "name": "execution_time",
+                    "value": 5,
+                    "defaultValue": "5",
+                    "description": "",
+                    "readonly": false,
+                    "type": "Float",
+                    "precious": false,
+                    "options": [],
+                    "positional": false,
+                    "encoding": "pickle",
+                    "id": "961fffdf-bd5f-4830-92a8-a1003cfea07d",
+                    "parameterType": "Constraint",
+                    "usage": "NoPort",
+                    "edgeIds": []
+                },
+                "756fccdd-2d18-4516-a9c8-ebd129b7f250": {
+                    "name": "execution_time",
+                    "value": 5,
+                    "defaultValue": "5",
+                    "description": "",
+                    "readonly": false,
+                    "type": "Float",
+                    "precious": false,
+                    "options": [],
+                    "positional": false,
+                    "encoding": "pickle",
+                    "id": "756fccdd-2d18-4516-a9c8-ebd129b7f250",
+                    "parameterType": "Constraint",
+                    "usage": "NoPort",
+                    "edgeIds": []
                 }
             },
             "inputApplicationId": null,
