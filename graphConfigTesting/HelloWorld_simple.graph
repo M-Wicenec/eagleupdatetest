@@ -43,10 +43,10 @@
     "activeGraphConfigId": null,
     "graphConfigurations": {},
     "nodes": {
-        "698609cd-6415-4d67-a5ae-692a6f0ad33d": {
+        "b116ed3e-7f9b-42c4-ac33-03ed440ffab3": {
             "category": "PythonApp",
             "categoryType": "Application",
-            "id": "698609cd-6415-4d67-a5ae-692a6f0ad33d",
+            "id": "b116ed3e-7f9b-42c4-ac33-03ed440ffab3",
             "name": "HelloWorldApp",
             "description": "A simple APP that implements the standard Hello World in DALiuGE. It allows to change 'World' with some other string and it also permits to connect the single output port to multiple sinks, which will all receive the same message. App does not require any input.",
             "x": 223.65975327762027,
@@ -185,17 +185,17 @@
                     "parameterType": "Application",
                     "usage": "OutputPort",
                     "edgeIds": [
-                        "263c6cbc-1a5f-46e5-a33e-621fe009f159"
+                        "be9aaf22-28d3-4ae9-b3fe-c1fe14c7b2b5"
                     ]
                 }
             },
             "inputApplicationId": null,
             "outputApplicationId": null
         },
-        "ebbbfbfa-00d6-4fae-879e-7b3c0933b012": {
+        "ad4a756a-3c77-4bca-bdce-02c159fa608f": {
             "category": "File",
             "categoryType": "Data",
-            "id": "ebbbfbfa-00d6-4fae-879e-7b3c0933b012",
+            "id": "ad4a756a-3c77-4bca-bdce-02c159fa608f",
             "name": "hello",
             "description": "A standard file on a filesystem mounted to the deployment machine",
             "x": 356.6239257200991,
@@ -334,7 +334,7 @@
                     "parameterType": "Application",
                     "usage": "InputPort",
                     "edgeIds": [
-                        "263c6cbc-1a5f-46e5-a33e-621fe009f159"
+                        "be9aaf22-28d3-4ae9-b3fe-c1fe14c7b2b5"
                     ]
                 },
                 "84506314-b728-40fc-a3f1-c7673fade815": {
@@ -359,11 +359,11 @@
         }
     },
     "edges": {
-        "263c6cbc-1a5f-46e5-a33e-621fe009f159": {
-            "id": "263c6cbc-1a5f-46e5-a33e-621fe009f159",
-            "srcNodeId": "698609cd-6415-4d67-a5ae-692a6f0ad33d",
+        "be9aaf22-28d3-4ae9-b3fe-c1fe14c7b2b5": {
+            "id": "be9aaf22-28d3-4ae9-b3fe-c1fe14c7b2b5",
+            "srcNodeId": "b116ed3e-7f9b-42c4-ac33-03ed440ffab3",
             "srcPortId": "09b9f140-837d-40eb-99b9-060a5559ce15",
-            "destNodeId": "ebbbfbfa-00d6-4fae-879e-7b3c0933b012",
+            "destNodeId": "ad4a756a-3c77-4bca-bdce-02c159fa608f",
             "destPortId": "3506c8c1-b03f-4be4-a215-0448a05a84b2",
             "loopAware": false,
             "closesLoop": false

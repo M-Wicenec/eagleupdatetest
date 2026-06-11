@@ -43,10 +43,10 @@
     "activeGraphConfigId": null,
     "graphConfigurations": {},
     "nodes": {
-        "c1563977-a999-4fc8-87c5-8726618125b0": {
+        "720e8225-2555-4935-b8a3-8fbe2fb95037": {
             "category": "File",
             "categoryType": "Data",
-            "id": "c1563977-a999-4fc8-87c5-8726618125b0",
+            "id": "720e8225-2555-4935-b8a3-8fbe2fb95037",
             "name": "File",
             "description": "A standard file on a filesystem mounted to the deployment machine",
             "x": 1013.640792464784,
